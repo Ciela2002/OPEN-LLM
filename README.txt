@@ -7,7 +7,7 @@ Thank you for downloading OLLM!
 
 OLLM is a blazingly fast, lightweight desktop chat client for Large Language 
 Models, built entirely in Rust. Designed to be intuitive and easy to use, 
-OLLM brings the power of AI conversations to your desktop with zero complexity.
+
 
 ================================================================================
   WHY OLLM?
@@ -254,3 +254,4 @@ If you find OLLM useful, please consider:
 Happy chatting!
 
 ================================================================================
+
